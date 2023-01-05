@@ -85,6 +85,5 @@ def main():
     print("\nAFTER")
     print_grid()
 
-
 if __name__ == '__main__':
     main()
