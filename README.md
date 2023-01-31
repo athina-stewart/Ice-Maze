@@ -1,6 +1,6 @@
 # Ice-Maze
 
-In this problem, there is an ice-maze with that have only one exit and one or more rocks in the pond.
+In this problem, there is the puzzle of finding an exit out of an ice maze. The ice-maze only has one exit from the pond and there may be rocks (obstacles) in this pond.
 
 Importantly, in order to escape you must travel in one line until encoundering a rock or a corner of the pond.
 
