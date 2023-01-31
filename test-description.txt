@@ -1,0 +1,32 @@
+Test Descriptions
+
+-------------------------
+test1.txt
+
+This is a test in which the grid has a different number of grid
+versus columns. There are also more rocks in this grid and the
+objective is to verify that the graph is correctly built, that
+is, all vertex neighbours are assigned and all vertexes are linked
+correctly. In this test, a path to the exit can be found from all
+starting squares.
+
+-------------------------
+test2.txt
+
+This is a test containing a larger grid with more obstacles. The
+objective was to be able to correctly detect which starting squares
+would not have a path connected to the escape point
+
+-------------------------
+test3.txt
+
+This test is scaled up from the second test. There are more squares
+in the grid and also more obstacles that need to be properly
+maneuvered so vertex neighbours can be added correctly.
+
+-------------------------
+test3.txt
+
+This is a simple test that checks if the maze can be escaped.
+If there is a rock in the exit then the person on the maze
+will be trapped forever.
